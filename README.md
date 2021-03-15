@@ -1,2 +1,2 @@
 # Analoge-Clock
-#Dark theme clock by python
+#Dark theme clock 
